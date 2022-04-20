@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HRM">
+  <test name="TC_01_CreateEmployee">
+    <classes>
+      <class name="com.automation.Testscripts.TC_01_CreateEmployee"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
